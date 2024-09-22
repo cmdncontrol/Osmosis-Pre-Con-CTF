@@ -8,9 +8,9 @@ This CTF occurred just prior to the 10th Annual Osmosis Con in Las Vegas. It ran
 
 ### Day 2
 
-* [#8 Caller ID](<challenges/Day 2/caller-id/>)
+* [#8 Caller ID](<challenges/day-2/caller-id/>)
 
-* [# 9 That's my WiFi](challenges/Day%202%20/thats-my-wifi/)
+* [# 9 That's my WiFi](challenges/day-2/thats-my-wifi/)
 
 * [# 10 Jams](<challenges/Day 2/jams/>)
 
