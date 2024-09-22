@@ -12,28 +12,28 @@ This CTF occurred just prior to the 10th Annual Osmosis Con in Las Vegas. It ran
 
 * [# 9 That's my WiFi](challenges/day-2/thats-my-wifi/)
 
-* [# 10 Jams](<challenges/Day 2/jams/>)
+* [# 10 Jams](<challenges/day-2/jams/>)
 
-* [# 11 The prize](<challenges/Day 2/the-prize/>)
+* [# 11 The prize](<challenges/day-2/the-prize/>)
   
   ### Day 1
 
-* [# 1 The art of espionage ](<challenges/Day 1/1-the-art-of-espionage/>)
+* [# 1 The art of espionage ](<challenges/day-1/1-the-art-of-espionage/>)
 
-* [# 2 The Hack](<challenges/Day 1/2-the-hack/>)
+* [# 2 The Hack](<challenges/day-1/2-the-hack/>)
 
-* [# 6 Where is number 5](<challenges/Day 1/6-where-is-number-5/>)
+* [# 6 Where is number 5](<challenges/day-1/6-where-is-number-5/>)
 
-* [# 3 The rabbit hole](<challenges/Day 1/3-the-rabbit-hole/>)
+* [# 3 The rabbit hole](<challenges/day-1/3-the-rabbit-hole/>)
 
-* [# 4 The Association](<challenges/Day 1/4-the-association/>)
+* [# 4 The Association](<challenges/day-1/4-the-association/>)
   
   ### Day 1 / Drop 1
 
-* [# 5 Who is it](<challenges/Day 1 / Drop 1/5-who-is-it/>)
+* [# 5 Who is it](<challenges/day-1--drop-1/5-who-is-it/>)
 
-* [# 7 Too many Layers ](<challenges/Day 1 / Drop 1/too-many-layers/>)
+* [# 7 Too many Layers ](<challenges/day-1--drop-1/too-many-layers/>)
 
 * ### Bonus
 
-* [Bonus](<challenges/Bonus/bonus/>)
+* [Bonus](<challenges/bonus/bonus/>)
